@@ -1,0 +1,84 @@
+.container-sm {
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 24px;
+}
+
+.quote {
+    background-color: #f4a261;
+}
+
+#newtempleimgdiv {
+    margin-bottom: 70px;
+    box-shadow: 4px 4px 8px black;
+    opacity: 0.9;
+    transition: opacity 0.3s ease-in 0.1s;
+}
+
+#newtempleimgdiv:hover {
+    margin-bottom: 70px;
+    box-shadow: 4px 4px 8px gray;
+    opacity: 1;
+}
+
+a {
+    text-decoration: none;
+}
+
+#history__Section {
+    margin-bottom: 70px;
+    box-shadow: 4px 4px 8px black;
+    
+}
+
+#history__Section:hover {
+    margin-bottom: 70px;
+    
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+#history__content {
+    background-color: #ced4da;
+}
+
+.card {
+    background-color: #ced4da;
+    box-shadow: 2px 2px 4px black;
+    
+}
+
+.container {
+    box-shadow: 3px 3px 5px black;
+    background-color: #f5ebe0;
+}
+
+.navbar {
+    background-color: #1b263b;
+} 
+
+.card-text {
+    font-size: 24px;
+}
+
+#mandir__nirmaan {
+    margin-top: 48px;
+}
+
+p {
+    font-size: 20px;
+}
+
+@media(min-width:200px) and (max-width:600px) {
+    .container {
+        margin: 10px auto;
+        margin-left: 100px;
+    }
+    .container-sm {
+        margin-left: 100px;
+    }
+
+}
