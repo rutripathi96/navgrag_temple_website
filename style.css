@@ -82,3 +82,8 @@ p {
     }
 
 }
+
+video {
+    width: 90em;
+    height: 50em;
+}
